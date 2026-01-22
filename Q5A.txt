@@ -1,0 +1,10 @@
+SALESPERSONNO 
+------------- 
+2020          
+5522          
+1515          
+1111          
+
+Elapsed: 00:00:00.004
+4 rows selected. 
+

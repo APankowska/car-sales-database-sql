@@ -1,0 +1,18 @@
+SALESPERSONNO PRICE CARS                                                 
+------------- ----- ---------------------------------------------------- 
+1111          2800  FORD FOCUS                                           
+1111          8200  SCODA OCTAVIA                                        
+1122          2000  SKODA FABIA                                          
+1122          7000  FIAT 500                                             
+1515          17900 VW TRANSPORTER                                       
+1515          25600 VW SHARAN                                            
+2020          7200  VW PASSAT                                            
+2020          25900 FORD RANGER                                          
+3366          3500  RENAULT MEGAN                                        
+3366          4200  SEAT IBIZA                                           
+5522          6200  VW GOLF                                              
+5522          12500 FORD GALAXY                                          
+
+Elapsed: 00:00:00.003
+12 rows selected. 
+

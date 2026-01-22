@@ -1,0 +1,12 @@
+CENTRENO SALESPERSONNO NAME                             
+-------- ------------- -------------------------------- 
+10       2020          R. Jones                         
+23       1122          C. Thomas                        
+23       3366          T. Davis                         
+25       1111          S. Morgan                        
+25       1515          S. Smith                         
+30       5522          L. Smith                         
+
+Elapsed: 00:00:00.001
+6 rows selected. 
+
