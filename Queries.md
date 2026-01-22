@@ -16,7 +16,7 @@
 - ['Query 2.csv'](https://github.com/APankowska/car-sales-database-sql/raw/refs/heads/main/Q2%20RESULTS.csv)
 - ['Query 3.csv'](https://github.com/APankowska/car-sales-database-sql/raw/refs/heads/main/Q3%20RESULTS.csv)
 - ['Query 4.csv'](https://github.com/APankowska/car-sales-database-sql/raw/refs/heads/main/Q4%20RESULTS.csv)
-- ['Query 5a.txt'](Q5A.txt)
+- ['Query 5a.csv'](https://github.com/APankowska/car-sales-database-sql/raw/refs/heads/main/Q5%20RESULTS.csv)
 - ['Query 5b.txt'](Q5B.txt)
 - ['Query 6.csv'](Q6 RESULTS.csv)
 - ['Query 7.csv'](Q7 RESULTS.csv)
