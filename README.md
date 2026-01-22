@@ -15,3 +15,6 @@ SQL project based on a car dealership scenario (Glam Cars). The aim is to design
 
 ## Technologies
   - Oracle SQL
+
+## Notes
+This project was originally developed as part of an academic assessment. 
