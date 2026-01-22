@@ -12,12 +12,12 @@
 - **Query 8**:  Produce a list of customers that do not currentlyhave any car sales in the car sale table -['Q8.sql'](Q8.sql)
 
 ## Results
-- **Query 1** - 
-- **Query 2** - 
-- **Query 3** -
-- **Query 4** -
-- **Query 5a** -
-- **Query 5b** -
-- **Query 6** -
-- **Query 7** -
-- **Query 8** -
+- ['Query 1.csv'](Q1 RESULTS.csv)
+- ['Query 2.csv'](Q2 RESULTS.csv)
+- ['Query 3.csv'](Q3 RESULTS.csv)
+- ['Query 4.csv'](Q4 RESULTS.csv)
+- ['Query 5a.txt'](Q5A.txt)
+- ['Query 5b.txt'](Q5B.txt)
+- ['Query 6.csv'](Q6 RESULTS.csv)
+- ['Query 7.csv'](Q7 RESULTS.csv)
+- ['Query 8.csv'](Q8 RESULTS.csv)
