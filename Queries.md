@@ -13,7 +13,7 @@
 
 ## Results
 - ['Query 1.csv'](https://github.com/APankowska/car-sales-database-sql/raw/refs/heads/main/Q1%20RESULTS.csv)
-- ['Query 2.csv'](Q2 RESULTS.csv)
+- ['Query 2.csv'](https://github.com/APankowska/car-sales-database-sql/raw/refs/heads/main/Q2%20RESULTS.csv)
 - ['Query 3.csv'](Q3 RESULTS.csv)
 - ['Query 4.csv'](Q4 RESULTS.csv)
 - ['Query 5a.txt'](Q5A.txt)
