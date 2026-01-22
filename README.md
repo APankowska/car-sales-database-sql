@@ -7,7 +7,7 @@ SQL project based on a car dealership scenario (Glam Cars). The aim is to design
 ## Repository Contents
   - ['schema.sql'](schema.sql) - table definitions with primary and foreign keys
   - ['data.sql'](data.sql) - sample data used for testing queries
-  - queries - SQL queries answering the assignment requirements
+  - ['queries'](Queries.md) - SQL queries answering the assignment requirements
 
 ## Database Design
   - Tables: Centre, Salesperson, Customer, Carsale
