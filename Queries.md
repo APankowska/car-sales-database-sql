@@ -12,7 +12,7 @@
 - **Query 8**:  Produce a list of customers that do not currentlyhave any car sales in the car sale table -['Q8.sql'](Q8.sql)
 
 ## Results
-- ['Query 1.csv'](Q1 RESULTS.csv)
+- ['Query 1.csv'](https://github.com/APankowska/car-sales-database-sql/raw/refs/heads/main/Q1%20RESULTS.csv)
 - ['Query 2.csv'](Q2 RESULTS.csv)
 - ['Query 3.csv'](Q3 RESULTS.csv)
 - ['Query 4.csv'](Q4 RESULTS.csv)
