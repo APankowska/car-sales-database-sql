@@ -5,8 +5,8 @@ SQL project for a car dealership (Glam Cars) involving relational database desig
 SQL project based on a car dealership scenario (Glam Cars). The aim is to design and implement a relational database and write SQL queries to analyse car sales data.
 
 ## Repository Contents
-  - schema - table definitions with primary and foreign keys
-  - data - sample data used for testing queries
+  - schema.sql - table definitions with primary and foreign keys
+  - data.sql - sample data used for testing queries
   - queries - SQL queries answering the assignment requirements
 
 ## Database Design
